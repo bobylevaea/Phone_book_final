@@ -2,6 +2,7 @@ import view
 from module import PhoneBook, Contact
 import text
 
+
 pb = PhoneBook()
 
 def start():
