@@ -1,6 +1,7 @@
 import text
 from typing import Tuple
 
+
 def menu() -> int:
     print(text.menu[0])
     for i, item in enumerate(text.menu[1:], 1):
