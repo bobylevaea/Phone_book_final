@@ -1,6 +1,7 @@
 import os
 import json
 
+
 class Contact:
     def __init__(self, name: str, phone: str, comment: str, id: str = None):
         self.id = id
